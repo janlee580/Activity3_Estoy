@@ -29,6 +29,6 @@ This activity aims to help learners understand how to handle user input and dyna
 
 ---
 
-Developed by: Janlee Estoy
-Course: Computer Engineering
-Activity: 3 — Buttons and User Interaction
+- Developed by: Janlee Estoy
+- Course: Computer Engineering
+- Activity: 3 — Buttons and User Interaction
